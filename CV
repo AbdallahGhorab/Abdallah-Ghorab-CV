@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Abdallah Ghorab</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #007acc;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #007acc;
+            padding-bottom: 5px;
+        }
+        .contact, .languages, .personal-data {
+            font-size: 0.9rem;
+            color: #555;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Abdallah Mohamed Ghorab</h1>
+        <p>4th District, 6th October City, Giza, Egypt | +2 01091986112 | <a href="mailto:mr.abdallahghorab@gmail.com">mr.abdallahghorab@gmail.com</a></p>
+        <p><a href="https://www.linkedin.com/in/abdallahghorab" target="_blank">LinkedIn</a></p>
+    </header>
+
+    <section class="section">
+        <h2>Objective</h2>
+        <p>Dynamic and meticulous with a strong background in financial services. Adept at perfecting customer experience and delivering strategic solutions. Seeking a challenging role within a leading financial institution that values innovation and supports professional development.</p>
+    </section>
+
+    <section class="section">
+        <h2>Experience</h2>
+        <h3>QNB Egypt | Qatar National Bank (August 2024 — Present)</h3>
+        <ul>
+            <li>Handling complex customer inquiries, ensuring satisfaction and loyalty across all client segments.</li>
+            <li>Optimized workflows using over +30 advanced financial systems and digital tools.</li>
+            <li>Collaborated across branches to achieve strategic alignment and institutional harmony.</li>
+        </ul>
+        <h3>CIB Egypt | Commercial International Bank (January 2024 — July 2024)</h3>
+        <ul>
+            <li>Exceeded performance targets, reaching 150% of the goals set by management.</li>
+            <li>Developed innovative sales strategies tailored to diverse customer profiles.</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Education</h2>
+        <p><strong>Akhbar El-Yom University</strong> (2023)</p>
+        <p>Bachelor of Commerce English Section & Business Degree – Accounting Major</p>
+    </section>
+
+    <section class="section">
+        <h2>Courses</h2>
+        <ul>
+            <li>Soft Skills Full bundle (October 2023)</li>
+            <li>Career Preparation (October 2023)</li>
+            <li>Financial Inclusion (October 2023)</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Languages</h2>
+        <p>Arabic: Native | English: Excellent</p>
+    </section>
+</body>
+</html>
